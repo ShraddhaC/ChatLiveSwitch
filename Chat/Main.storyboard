@@ -274,7 +274,7 @@
 						<outlet property="labelName" destination="93" id="name-outlet-93"/>                       
                         <outlet property="textChannelID" destination="90" id="name-outlet-90"/>
                         <outlet property="textName" destination="91" id="name-outlet-91"/>
-						<outlet property="buttonSend" destination="95" id="name-outlet-95"/>
+						<!--<outlet property="buttonSend" destination="95" id="name-outlet-95"/>-->
 						<outlet property="textLog" destination="96" id="name-outlet-96"/>
 						<outlet property="textSend" destination="94" id="name-outlet-94"/>
 						<outlet property="VideoStart" destination="5" id="name-outlet-5"/>
