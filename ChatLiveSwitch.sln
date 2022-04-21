@@ -19,7 +19,6 @@ Global
 		{D488F917-B1C7-4574-90B2-19F2147BCC65}.Debug|iPhone.Build.0 = Debug|iPhone
 		{D488F917-B1C7-4574-90B2-19F2147BCC65}.Debug|iPhone.Deploy.0 = Debug|iPhone
 		{D488F917-B1C7-4574-90B2-19F2147BCC65}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhone
-		{D488F917-B1C7-4574-90B2-19F2147BCC65}.Debug|iPhoneSimulator.Build.0 = Debug|iPhone
 		{D488F917-B1C7-4574-90B2-19F2147BCC65}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
 		{D488F917-B1C7-4574-90B2-19F2147BCC65}.Release|iPhone.ActiveCfg = Release|iPhone
 		{D488F917-B1C7-4574-90B2-19F2147BCC65}.Release|iPhone.Build.0 = Release|iPhone

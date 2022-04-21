@@ -100,8 +100,6 @@
     <BuildIpa>true</BuildIpa>
     <IpaPackageName>com.fm.liveswitch.chat.xamarin</IpaPackageName>
     <IpaIncludeArtwork>false</IpaIncludeArtwork>
-    <MtouchSdkVersion>
-    </MtouchSdkVersion>
     <MtouchExtraArgs>-optimize=-remove-dynamic-registrar -gcc_flags "-L${ProjectDir}/libs/native -lvpxfm-iOS -lopusfm-iOS -lyuvfm-iOS -force_load ${ProjectDir}/libs/native/libvpxfm-iOS.a -force_load ${ProjectDir}/libs/native/libopusfm-iOS.a -force_load ${ProjectDir}/libs/native/libyuvfm-iOS.a"</MtouchExtraArgs>
     <MtouchNoSymbolStrip>false</MtouchNoSymbolStrip>
     <IOSDebuggerPort>10034</IOSDebuggerPort>
