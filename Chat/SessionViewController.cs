@@ -194,7 +194,7 @@ namespace Chat
 
         private void VideoStart_TouchUpInside(object sender, EventArgs e)
         {
-            App.Instance.StartLocalMedia(Vedioview)
+            App.Instance.StartLocalMedia(this.View)
                   .Then((p) =>
                   {
                       if (!App.Instance.EnableScreenShare)
